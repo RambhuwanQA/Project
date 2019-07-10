@@ -7,3 +7,4 @@ proceed1:xpath://a[text()="Proceed"]
 dragMe:css:.ui-draggable
 dropBox:xpath://div[text()=\"DROPBOX\"]
 proCeed2:xpath://a[text()=\"Proceed\"]
+sample_locator:xpath://a[text()="new_locator"]
